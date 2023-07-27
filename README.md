@@ -1,1 +1,1 @@
-ALX School Projects repository 
+ALX SOftware Engineering Course
